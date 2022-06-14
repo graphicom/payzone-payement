@@ -1,6 +1,6 @@
 {
     "name": "graphicom/payzone-laravel",
-    "description": "payzone-laravel is simple package help you process direct credit card payments, stored credit card payments with your L5 projects.",
+    "description": "graphicom/payzone-laravel is a package that help you process direct credit card payments, stored credit card payments, payzone payment with your Laravel projects.",
     "keywords": ["laravel", "Payzon", "payment", "credit cards"],
     "license": "MIT",
     "support": {
