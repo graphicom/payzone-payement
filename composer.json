@@ -1,0 +1,23 @@
+{
+    "name": "graphicom/payzone-laravel",
+    "description": "payzone-laravel is simple package help you process direct credit card payments, stored credit card payments with your L5 projects.",
+    "license": "None",
+    "authors": [
+        {
+            "name": "Mahassine Mohamed Amine",
+            "email": "mahassine.med.amine@gmail.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.2.0",
+        "illuminate/support": "^6|^7|^8|^9",
+        "ext-curl": "*",
+        "ext-json": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "Larapay\\PayzoneLaravel\\": "src/Larapay/Payzonepayment/"
+        }
+    },
+    "minimum-stability": "dev"
+}
